@@ -1,0 +1,3 @@
+displayName = Trash Mod
+author = CCmalakai & DigiCode
+version = 0.1
